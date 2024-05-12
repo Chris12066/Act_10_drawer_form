@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Links de referencia
+
+- https://youtu.be/BpN5f_747pI?si=ku6bZ52ipIrOOBhT
+- https://blog.logrocket.com/the-ultimate-guide-to-text-fields-in-flutter/
+- https://codesinsider.com/flutter-textfield-widget-tutorial/
+
+  
